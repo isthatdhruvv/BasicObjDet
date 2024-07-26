@@ -1,0 +1,5 @@
+# STEP 1 - CLONE REPOSITORY 
+# STEP 2 - OPEN TERMINAL IN REPOSITORY AND USE COMMAND - pip install virtual env
+# STEP 3 - In SAME TERMINAL USE - myenv\Scripts\activate
+# STEP 4 - RUN - pip install -r requirements.txt 
+# THEN RUN YOLO WEBCAM PYTHON FILE AND DONE , FOR ANY BUGS AND QUERIES CONTACT ME 
